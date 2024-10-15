@@ -4122,7 +4122,7 @@ Pe.formToJSON = (t) => BA(N.isHTMLForm(t) ? new FormData(t) : t);
 Pe.getAdapter = WA.getAdapter;
 Pe.HttpStatusCode = su;
 Pe.default = Pe;
-const fC = { BASE_URL: "/", DEV: !1, IS_WEB_COMPONENT: !0, MODE: "web-component-prod", PROD: !0, SSR: !1, VITE_DEV_API_BASE_URL: "http://localhost:3000", VITE_DEV_BASE_URL: "/", VITE_PROD_API_BASE_URL: "https://eu.blink.run", VITE_PROD_BASE_URL: "/games/blink-games/", VITE_STAGING_API_BASE_URL: "http://localhost:8080", VITE_STAGING_BASE_URL: "/games/blink-games/", VITE_WC_API_BASE_URL: "https://eu.blink.run", VITE_WC_BASE_URL: "/", VITE_WC_BUILD_TYPE: "web-component", VITE_WC_PROD_API_BASE_URL: "https://eu.blink.run", VITE_WC_PROD_BASE_URL: "/", VITE_WC_PROD_BUILD_TYPE: "web-component" };
+const fC = { BASE_URL: "/", DEV: !1, IS_WEB_COMPONENT: !0, MODE: "web-component-prod", PROD: !0, SSR: !1, VITE_DEV_API_BASE_URL: "http://localhost:3000", VITE_DEV_BASE_URL: "/", VITE_PROD_API_BASE_URL: "https://eu.blink.run", VITE_PROD_BASE_URL: "/games/blink-games/", VITE_STAGING_API_BASE_URL: "https://eu.blink.run", VITE_STAGING_BASE_URL: "/games/blink-games/", VITE_WC_API_BASE_URL: "https://eu.blink.run", VITE_WC_BASE_URL: "/", VITE_WC_BUILD_TYPE: "web-component", VITE_WC_PROD_API_BASE_URL: "https://eu.blink.run", VITE_WC_PROD_BASE_URL: "/", VITE_WC_PROD_BUILD_TYPE: "web-component" };
 function ei() {
   const [t, e] = gt(!1);
   return rt(() => {
